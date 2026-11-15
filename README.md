@@ -5,7 +5,7 @@ Data: Temperatures
 
 
 Method Used: took measurements from NASA datasets and normalized them and mapped them into audio frequencies. 
-              Higher value -> Higher Pitch
+              Higher value -> Higher Pitch. 
               Lower value -> Lower Pitch
 
 Result: Audio depiction of data sets to increase accessibility. 
